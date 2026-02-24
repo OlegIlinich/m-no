@@ -1,0 +1,12 @@
+User-agent: Yandex
+Disallow: /js
+Host: https://m-no.ru
+
+User-agent: Googlebot
+Disallow: /js
+
+User-agent: *
+Crawl-delay: 30
+Disallow: /js
+
+Sitemap: https://m-no.ru/sitemap.xml
